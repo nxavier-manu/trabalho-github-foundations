@@ -14,3 +14,5 @@ Este repositório foi criado para a aplicação prática dos conceitos aprendido
 
 ## 🎓 Certificação
 [Conquistas - manuxavier-9906 Microsoft Learn.pdf](https://github.com/user-attachments/files/31737793/Conquistas.-.manuxavier-9906..Microsoft.Lear.pdf)
+---
+*Projeto desenvolvido durante as aulas de Design Profissional.*
